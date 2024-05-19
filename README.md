@@ -7,4 +7,6 @@ user experience.
 
 **#Conclusion:** Through our analysis of user gameplay data, we uncovered comprehensive insights into various aspects of the game,
 including property types, popular neighbourhoods, booking trends, pricing dynamics, and customer preferences. These insights
-empower stakeholders to make informed, data-driven decisions, ultimately leading to an enhanced user experience
+empower stakeholders to make informed, data-driven decisions, ultimately leading to an enhanced user experience.
+
+LinkedIN - https://www.linkedin.com/posts/shivamsharma32_game-analysis-sql-internship-project-activity-7186190219916836864-n35z?utm_source=share&utm_medium=member_desktop
